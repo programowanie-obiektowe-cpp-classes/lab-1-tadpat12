@@ -2,33 +2,18 @@
 #include <cmath>
 using namespace std;
 
-class Informer{
-public:
-  Informer(){
-   cout<<"Tworzenie"<<endl;
-  }
-  ~Informer(){
-    cout<<"Destrukcja"<<endl;
-  }
-};
+
 
 class Wektor2D{
  public:
  double x,y;
  double norm;
- Informer inf();
+ 
   Wektor2D(){
     x=0;
     y=0;
   }
-  Wektor2D(double xx, double yy,const Informer& inf1){
-           x=xx;
-           y=yy;
-           auto inf = inf1;
-           cout <<"x = "<<x<<" y = "<<y<<endl;
-           
-           num_wek++;
-  }
+  
   Wektor2D(double xx, double yy){
            x=xx;
            y=yy;
