@@ -1,0 +1,3 @@
+/home/tadusz/lab-1-tadpat12/build/CMakeFiles/zal.dir
+/home/tadusz/lab-1-tadpat12/build/CMakeFiles/edit_cache.dir
+/home/tadusz/lab-1-tadpat12/build/CMakeFiles/rebuild_cache.dir
