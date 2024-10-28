@@ -68,3 +68,4 @@ double operator*(Wektor2D& w1,Wektor2D& w2){
       return a;
 }
 
+
