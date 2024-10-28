@@ -1,7 +1,0 @@
-[
-{
-  "directory": "/home/tadusz/lab-1-tadpat12/build",
-  "command": "/usr/bin/c++  -I/home/tadusz/lab-1-tadpat12/include -g -o CMakeFiles/zal.dir/test.cpp.o -c /home/tadusz/lab-1-tadpat12/test.cpp",
-  "file": "/home/tadusz/lab-1-tadpat12/test.cpp"
-}
-]
